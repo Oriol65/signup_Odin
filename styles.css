@@ -1,0 +1,28 @@
+@font-face {
+  font-family: norseTOP;
+  src: url(assets/fontNorseTOP/Norse.otf);
+}
+@font-face{
+  font-family: norseTOP;
+  font-weight: bold;
+  src: url(assets/fontNorseTOP/Norsebold.otf);
+}
+.cssTest {
+  height: auto;
+  background-color: blue;
+  color: red;
+}
+img {
+  display: flex;
+}
+.logo {
+  background-color: black;
+}
+h2 {
+  font-family: norseTOP;
+  font-weight: normal;
+}
+h3 {
+  font-family: norseTOP;
+  font-weight: bold;
+}
